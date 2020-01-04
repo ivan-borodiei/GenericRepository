@@ -6,6 +6,7 @@ namespace Console
     {
         static void Main(string[] args)
         {
+            //test comment
             RepositoryConsumer.RunTest();
         }
     }
