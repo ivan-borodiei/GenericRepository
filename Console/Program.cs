@@ -2,6 +2,7 @@
 
 namespace Console
 {
+    // program comment added
     class Program
     {
         static void Main(string[] args)
